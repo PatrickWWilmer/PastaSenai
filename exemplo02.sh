@@ -1,5 +1,6 @@
 #!/bin/bash
 # Autor Patrick
+# Este arquivo está modificado para entrar no Github
 
 clear
 echo "Seja bem vindo"
